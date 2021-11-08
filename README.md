@@ -2,5 +2,5 @@
 
 
 <a href="https://discord.gg/etc66NNCVP">
-  <img src="http://invidget.switchblade.xyz/etc66NNCVP" />
+  <img src="http://invidget.switchblade.xyz/etc66NNCVP"/>
 </a>
