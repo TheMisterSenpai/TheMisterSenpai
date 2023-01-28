@@ -7,5 +7,5 @@ Skills: Python / JS / Go
 
 - 🔭 I’m currently working on this page. 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMisterSenpai&show_icons=true&count_private=true&hide_border=true&theme=dark&icon_color=fff&layout=compact&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 [![Discord Presence](https://lanyard.cnrad.dev/api/364437278728388611)](https://discord.com/users/364437278728388611)
